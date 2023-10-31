@@ -15,5 +15,5 @@ Other associated handles:
 - [@docpad-archive](https://github.com/docpad-archive)
 - [@docpad](https://github.com/docpad)
 - [@elegant-talk](https://github.com/elegant-talk))
-- [@FarenessDev](https://github.com/FarenessDev)
-- [@InterconnectApp](https://github.com/InterconnectApp)
+- [@farenessdev](https://github.com/farenessdev)
+- [@interconnectapp](https://github.com/interconnectapp)
