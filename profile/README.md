@@ -14,6 +14,6 @@ Other associated handles:
 - [@chainyjs](https://github.com/chainyjs)
 - [@docpad-archive](https://github.com/docpad-archive)
 - [@docpad](https://github.com/docpad)
-- [@elegant-talk](https://github.com/elegant-talk))
+- [@elegant-talk](https://github.com/elegant-talk)
 - [@farenessdev](https://github.com/farenessdev)
 - [@interconnectapp](https://github.com/interconnectapp)
