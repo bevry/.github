@@ -1,4 +1,4 @@
-Bevry is a collaborative/collective moniker for @balupton and other contributors.
+Bevry is a collaborative/collective moniker for [@balupton](https://github.com/balupton) and other contributors.
 
 Projects under this moniker aim to be actively supported and maintained.
 
